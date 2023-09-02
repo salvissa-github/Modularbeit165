@@ -1,7 +1,7 @@
 # Modularbeit165
 Programm mit Verbindung mit MongoDB. 
 
-Auftrag
+Auftrag <br>
 Schreiben Sie ein Programm in Python, bei dem sie Daten aus der Datenbank abfragen können. Die 
 Verbindung mit MongoDB erfolgt durch PyMongo. Die Datenbank soll von Ihnen erstellt und mit Daten 
 gefüllt werden. Es handelt sich um eine Datenbank spiele mit der Collection pcgames, bei dem sie Titel, 
